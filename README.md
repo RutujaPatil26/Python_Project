@@ -4,4 +4,11 @@ The Diwali Sales Analysis project focuses on analyzing sales data during the Diw
 ## Project Structure
 ### 1. Problem Statement
 Define the problem and objectives of the analysis: understanding customer behavior, identifying sales trends, and evaluating product performance.
-### Analysis Steps
+### 2. Analysis Steps
+The analysis is performed in several steps.Each aimed at understanding different aspects of the data:
+## Data Importing 
+Libraries Import: Import necessary libraries such as pandas, numpy, seaborn, and matplotlib for data manipulation and visualization.
+## Data Loading: Load the diwali sales dataset.
+- Load the dataset using Pandas. 
+- Display the first few rows of the dataset to understand its structure.
+
