@@ -48,4 +48,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 ### Acknowledgements
-Thanks to the open-source community for providing the tools necessary for this analysis. Special thanks to the creators of the dataset.
+This analysis would not have been possible without the valuable data made available by contributors on kaggle. special thanks to the original data provider and the kaggle community for their support and resources.
