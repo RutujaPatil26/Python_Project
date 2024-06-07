@@ -11,4 +11,8 @@ Libraries Import: Import necessary libraries such as pandas, numpy, seaborn, and
 #### Data Loading: Load the diwali sales dataset.
 - Load the dataset using Pandas. 
 - Display the first few rows of the dataset to understand its structure.
-
+#### Data Cleaning:
+Identify and handle missing values. Drop irrelevant columns.
+### 3. Exploratory Data Analysis (EDA)
+#### Sales Analysis:
+Examine the sales data to uncover insights about the performance of products, identify trends, and understand the factors driving sales.Analyze Sales trends over time. Identify peak sales periods and any seasonal patterns.
